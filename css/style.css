@@ -604,6 +604,9 @@ hr{
 	.text__wedo{
 		font-size: 14px;
 	}
+	.textwedo{
+		margin: 0 35px;
+	}
 
 }
 
