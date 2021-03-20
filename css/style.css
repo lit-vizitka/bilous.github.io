@@ -601,6 +601,9 @@ hr{
 		margin-top: 50px;
 		justify-content: center;
 	}
+	.text__wedo{
+		font-size: 14px;
+	}
 
 }
 
