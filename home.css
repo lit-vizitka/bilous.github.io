@@ -332,3 +332,9 @@
 .soc:hover{
 	color: #000032;
 }
+
+@media (max-width: 770px){
+	.nav-toggle {
+	    display: block;
+	}
+}
