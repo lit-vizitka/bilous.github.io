@@ -1,0 +1,30 @@
+@media (max-width: 1230px){
+
+}
+
+@media (max-width: 990px){
+
+}
+
+@media (max-width: 770px){
+
+}
+
+@media (max-width: 575px){
+	.slider{
+		max-width: 374px;
+	}
+}
+@media (max-width: 400px){
+	.slider{
+		max-width: 280px;
+	}
+	.img__slider{
+		width: 280px;
+		height: 343px;
+	}
+	.backgroundImg__slider{
+		width: 280px;
+		height: 343px;
+	}
+}

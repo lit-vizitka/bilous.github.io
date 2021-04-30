@@ -1,0 +1,18 @@
+/*all styles*/
+@import "style.css";
+
+/*home page*/
+@import "home.css";
+@import "homeadapt.css";
+
+/*biografy page*/
+@import "biografy.css";
+@import "biografyadapt.css"
+
+/*tvorchist page*/
+@import "texts.css";
+
+@import "textsadapt.css"
+
+/*@import "simple-adaptive-slider.css"*/
+/*@import "simple-adaptive-slider.min.css"*/
