@@ -1,0 +1,41 @@
+.information__name{
+	display: block;
+	margin: 50px auto;
+	text-align: center;
+}
+
+.intro__information{
+	/*display: flex;*/
+}
+
+.bilous__photo{
+	height: 400px;
+	float: left;
+	margin-right: 15px;
+}
+.bilous__photo1{
+	height: 400px;
+	float: right;
+	margin-right: 15px;
+}
+.bilous__photo1{
+	height: 400px;
+	float: center;
+	margin: 15px auto;
+}
+.photo__text{
+	font-size: 16px;
+	color: #000;
+	text-align: left;
+	
+	margin-top: 10px;
+}
+
+.abzac__bio{
+	margin: 15px 0 0;
+}
+.section__header1{
+	width: 100%;
+	max-width: 1450px;
+	margin: 0 auto 50px;
+}
