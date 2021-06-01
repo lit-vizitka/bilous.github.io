@@ -458,6 +458,9 @@ hr{
 	.elem__vizitka2{
 		font-size: 15px;
 	}
+	.nav-toggle{
+		display:block;
+	}
 }
 
 @media (max-width: 575px){
