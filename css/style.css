@@ -428,8 +428,11 @@ hr{
 .dzerelo__name{
 	width: 70%;
 }
-.dzerelo__img{
-
+.DG{
+	display:none;
+}
+.DGFull{
+	display:block;
 }
 
 
@@ -496,5 +499,11 @@ hr{
 		padding-top: 3px;
 		padding-bottom: 3px;
 		font-size: 12px;
+	}
+	.DG{
+		display:block;
+	}
+	.DGFull{
+		display:none;
 	}
 }
