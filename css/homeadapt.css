@@ -7,6 +7,7 @@
 		font-size: 120px;
 	}
 
+
 	.intro__epig{
 		font-size: 22px;
 	}
@@ -32,6 +33,9 @@
 	}
 	.stat{
 		justify-content: center;
+	}
+	.intro{
+		justify-content: end;
 	}
 
 	.stat__item{
